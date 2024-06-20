@@ -1,0 +1,338 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "28f77b05-53a5-4f29-9b4d-d18dbf030970")
+	(paper "A4")
+	(title_block
+		(title "CEO")
+		(date "2024-06-15")
+		(rev "RACHID RAHEL")
+		(company "DR SYSTEMS")
+		(comment 1 "board for education ")
+	)
+	(lib_symbols)
+	(text "DF-ESC-rev0"
+		(exclude_from_sim no)
+		(at 130.81 20.32 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 5.08 5.08)
+				(thickness 0.254)
+				(bold yes)
+				(color 57 81 255 1)
+			)
+		)
+		(uuid "dc0e39a6-e3a1-407f-b478-9f7da448eecf")
+	)
+	(sheet
+		(at 93.98 80.01)
+		(size 39.37 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1b2c0c5f-9828-48f6-8eaf-253e8ae08fa5")
+		(property "Sheetname" "MOSFTs"
+			(at 93.98 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MOSFTs.kicad_sch"
+			(at 93.98 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 137.16)
+		(size 38.1 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5b68e256-6d9a-47ef-8d04-b5704e0117e8")
+		(property "Sheetname" "MECANIQUE"
+			(at 139.7 136.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MECANIQUE.kicad_sch"
+			(at 139.7 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 80.01)
+		(size 39.37 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5f009477-0f32-42e0-be3b-4d4dc3923b3d")
+		(property "Sheetname" "CAN"
+			(at 163.83 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 163.83 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 83.82 41.91)
+		(size 36.83 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6e18106b-ec4c-489b-a186-c3d0a9c9e81f")
+		(property "Sheetname" "BLOCK DIAGRAM"
+			(at 83.82 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BLOCK DIAGRAM.kicad_sch"
+			(at 83.82 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 35.56)
+		(size 30.48 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8b90f1aa-83f4-48c7-b45b-eecece8cbc1b")
+		(property "Sheetname" "OVERVIEW"
+			(at 33.02 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "overview.kicad_sch"
+			(at 33.02 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 85.09)
+		(size 44.45 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a6064041-ecb6-4b5c-a3b1-f3c20e6d8583")
+		(property "Sheetname" "MCU"
+			(at 29.21 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 29.21 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 138.43)
+		(size 33.02 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e0179b22-6a1f-4dbe-b03d-30d40e39b9bd")
+		(property "Sheetname" "FILTRE"
+			(at 33.02 137.7184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FILTRE.kicad_sch"
+			(at 33.02 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 227.33 78.74)
+		(size 31.75 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e5671236-105d-4bf6-b18f-ceea8316af94")
+		(property "Sheetname" "DRVIVER MOSFTs"
+			(at 227.33 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DRVIVER MOSFTs.kicad_sch"
+			(at 227.33 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
