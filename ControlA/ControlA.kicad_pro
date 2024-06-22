@@ -387,24 +387,28 @@
       "Root"
     ],
     [
-      "8b90f1aa-83f4-48c7-b45b-eecece8cbc1b",
-      "OVERVIEW"
-    ],
-    [
       "6e18106b-ec4c-489b-a186-c3d0a9c9e81f",
       "BLOCK DIAGRAM"
+    ],
+    [
+      "8b90f1aa-83f4-48c7-b45b-eecece8cbc1b",
+      "INPUT_PROTECTION"
+    ],
+    [
+      "29166dd5-a94a-4745-a5d4-a64846a7ffbb",
+      "STEP_DOWN_convert"
     ],
     [
       "a6064041-ecb6-4b5c-a3b1-f3c20e6d8583",
       "MCU"
     ],
     [
-      "1b2c0c5f-9828-48f6-8eaf-253e8ae08fa5",
-      "MOSFTs"
-    ],
-    [
       "e5671236-105d-4bf6-b18f-ceea8316af94",
       "DRVIVER MOSFTs"
+    ],
+    [
+      "1b2c0c5f-9828-48f6-8eaf-253e8ae08fa5",
+      "MOSFTs"
     ],
     [
       "5f009477-0f32-42e0-be3b-4d4dc3923b3d",
@@ -413,6 +417,10 @@
     [
       "e0179b22-6a1f-4dbe-b03d-30d40e39b9bd",
       "FILTRE"
+    ],
+    [
+      "27df3959-570c-44e1-8e59-6cf229e4e5fe",
+      "USB"
     ],
     [
       "5b68e256-6d9a-47ef-8d04-b5704e0117e8",

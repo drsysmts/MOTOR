@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "cfd2c4a9-4729-4b74-99cb-316b5f342aab")
 	(paper "A4")
+	(title_block
+		(title "BLOCK DIGRAM ESC")
+		(date "2024-06-21")
+		(rev "RACHID RAHEL")
+		(company "DR SYSTEMS")
+		(comment 1 "modification")
+	)
 	(lib_symbols)
 	(polyline
 		(pts
@@ -42,6 +49,7 @@
 		(stroke
 			(width 1.016)
 			(type default)
+			(color 0 132 0 1)
 		)
 		(uuid "0ce209b6-bf6e-4e83-8d13-b223fa1476e2")
 	)
@@ -87,6 +95,17 @@
 	)
 	(polyline
 		(pts
+			(xy 142.24 80.01) (xy 142.24 87.63)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "296b11ff-97df-42ac-88ee-a99ac8272c1d")
+	)
+	(polyline
+		(pts
 			(xy 102.87 81.28) (xy 102.87 132.08)
 		)
 		(stroke
@@ -97,13 +116,47 @@
 	)
 	(polyline
 		(pts
+			(xy 148.59 46.99) (xy 148.59 68.58)
+		)
+		(stroke
+			(width 1.524)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "53892313-50df-4ab1-a486-22cc3a2ec458")
+	)
+	(polyline
+		(pts
 			(xy 85.09 35.56) (xy 85.09 125.73)
 		)
 		(stroke
 			(width 1.016)
 			(type solid)
+			(color 0 132 0 1)
 		)
 		(uuid "5d9b1716-89c8-4df5-bb70-8f5330f47ddb")
+	)
+	(polyline
+		(pts
+			(xy 113.03 78.74) (xy 118.11 78.74)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "7ee1f43e-f630-494f-be11-534a503cb05e")
+	)
+	(polyline
+		(pts
+			(xy 212.09 46.99) (xy 212.09 67.31)
+		)
+		(stroke
+			(width 1.524)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "854d6776-603f-4569-9453-20c3b76b6bc5")
 	)
 	(polyline
 		(pts
@@ -134,6 +187,17 @@
 			(type default)
 		)
 		(uuid "91e7c6b8-f41b-48e0-90a8-d01642fdd812")
+	)
+	(polyline
+		(pts
+			(xy 118.11 78.74) (xy 118.11 95.25)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "9e551eea-f86f-4e72-ae20-1119bbdcd97a")
 	)
 	(polyline
 		(pts
@@ -187,6 +251,16 @@
 	)
 	(polyline
 		(pts
+			(xy 120.65 95.25) (xy 123.19 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8f18b24-040b-44f5-941c-fd4aae8b91c5")
+	)
+	(polyline
+		(pts
 			(xy 187.96 118.11) (xy 187.96 137.16)
 		)
 		(stroke
@@ -197,11 +271,33 @@
 	)
 	(polyline
 		(pts
+			(xy 118.11 95.25) (xy 123.19 95.25)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "cf449a82-617e-4eb0-b3b8-5f6345a7ecbd")
+	)
+	(polyline
+		(pts
+			(xy 142.24 80.01) (xy 142.24 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf929e51-27b2-4f7a-91e0-dd1425e174e0")
+	)
+	(polyline
+		(pts
 			(xy 234.95 125.73) (xy 234.95 35.56)
 		)
 		(stroke
 			(width 1.016)
 			(type default)
+			(color 0 132 0 1)
 		)
 		(uuid "dc4d0f99-5a4f-464f-aacb-a3ea3b9310a4")
 	)
@@ -212,8 +308,19 @@
 		(stroke
 			(width 1.016)
 			(type default)
+			(color 0 132 0 1)
 		)
 		(uuid "ec3c4e1f-4f57-4a3e-a34d-be8e5c3d813b")
+	)
+	(polyline
+		(pts
+			(xy 120.65 95.25) (xy 123.19 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec4f8265-003e-4bc6-b817-ef83da8e9ff1")
 	)
 	(polyline
 		(pts
@@ -227,21 +334,12 @@
 	)
 	(polyline
 		(pts
-			(xy 85.09 46.99) (xy 85.09 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3539838-e81d-4861-b787-d5ffebd4958d")
-	)
-	(polyline
-		(pts
-			(xy 69.85 46.99) (xy 85.09 46.99)
+			(xy 69.85 46.99) (xy 212.09 46.99)
 		)
 		(stroke
 			(width 1.524)
 			(type default)
+			(color 255 0 0 1)
 		)
 		(uuid "f3a1fd38-8ab2-4f9f-b6a2-76d0c8043ed5")
 	)
@@ -274,6 +372,18 @@
 			(type default)
 		)
 		(uuid "fdccfa56-c304-4b09-85a1-08e42bc1a71d")
+	)
+	(rectangle
+		(start 123.19 87.63)
+		(end 165.1 104.14)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ad36310d-04a5-4575-a941-20352e6128ef)
 	)
 	(text_box "MOSFTs DRIVIERS"
 		(exclude_from_sim no)
@@ -495,6 +605,18 @@
 		)
 		(uuid "f9e64804-5d97-4068-803a-0168ffd27730")
 	)
+	(text "+3V3"
+		(exclude_from_sim no)
+		(at 118.11 97.79 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "7ff0e342-288d-43f3-aa7d-6856a5a5e327")
+	)
 	(text "BLOC DIAGRAM"
 		(exclude_from_sim no)
 		(at 138.43 24.13 0)
@@ -508,15 +630,27 @@
 		)
 		(uuid "89e4e1ae-725b-4186-8d02-0991d35db4f9")
 	)
-	(text "0-60V"
+	(text "STEP-DOWN 3V3"
 		(exclude_from_sim no)
-		(at 44.45 36.83 0)
+		(at 143.51 96.52 0)
 		(effects
 			(font
-				(size 5.08 5.08)
+				(size 2.54 2.54)
 				(bold yes)
 			)
 		)
 		(uuid "c905ef2c-6434-4199-86f9-7ac3f52d6587")
+	)
+	(text "+5V"
+		(exclude_from_sim no)
+		(at 148.59 83.82 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "f457fd67-d60f-40a9-ade2-2756659a3a0e")
 	)
 )
