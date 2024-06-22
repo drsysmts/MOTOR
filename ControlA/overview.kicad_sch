@@ -2697,6 +2697,19 @@
 		)
 		(uuid "d64985f7-e64f-4ab7-bb38-6e225a7bea51")
 	)
+	(text "INPUT PROTECTION "
+		(exclude_from_sim no)
+		(at 146.05 35.56 0)
+		(effects
+			(font
+				(face "Arial Black")
+				(size 7.62 7.62)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "ec290a25-4047-48a6-a2cf-d61685e32c87")
+	)
 	(text "WHEN:\nVDC=60V =>\nAN_JN = 3V204"
 		(exclude_from_sim no)
 		(at 199.39 115.57 0)
