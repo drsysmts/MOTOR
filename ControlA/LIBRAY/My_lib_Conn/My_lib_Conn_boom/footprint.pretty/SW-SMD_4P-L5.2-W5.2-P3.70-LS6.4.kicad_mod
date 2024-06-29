@@ -1,0 +1,226 @@
+(footprint "SW-SMD_4P-L5.2-W5.2-P3.70-LS6.4"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "SW-SMD_4P-L5.2-W5.2-P3.70-LS6.4 footprint")
+	(tags "SW-SMD_4P-L5.2-W5.2-P3.70-LS6.4 footprint C2874421")
+	(property "Reference" "REF**"
+		(at 0 -4.6 0)
+		(layer "F.SilkS")
+		(uuid "627f5d9d-b934-4b3b-a2cb-b7bef3735aa3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW-SMD_4P-L5.2-W5.2-P3.70-LS6.4"
+		(at 0 4.6 0)
+		(layer "F.Fab")
+		(uuid "44391cbc-8e19-49a3-942e-9ca58e972bd9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "SW-SMD_4P-L5.2-W5.2-P3.70-LS6.4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25e10507-3d59-4a14-8379-cd631223995d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf969466-a048-4da8-b495-50b1995608e0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "062314ce-20e7-4639-aa15-d76caacbfc41")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.6 -1.2)
+		(end -2.6 1.218745)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "72b6bb87-399c-4ae6-badb-d31a7578b630")
+	)
+	(fp_line
+		(start -1.979604 1.920396)
+		(end -1.3 2.6)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ac0afe80-b016-4655-95c8-7d187dea25dc")
+	)
+	(fp_line
+		(start -1.3 -2.6)
+		(end -1.979604 -1.920396)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a01332c2-7c99-427e-83fb-3f60b9f0aaac")
+	)
+	(fp_line
+		(start -1.3 2.6)
+		(end 1.3 2.6)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0f4201cb-58f6-4f75-a07e-94666df67442")
+	)
+	(fp_line
+		(start 1.3 -2.6)
+		(end -1.3 -2.6)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4172c4a8-4ce4-4d3c-ab28-9dace6dbea6e")
+	)
+	(fp_line
+		(start 1.3 2.6)
+		(end 1.979604 1.920396)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c792f3e4-0e10-414e-9c3c-1eb31eaebb17")
+	)
+	(fp_line
+		(start 1.979604 -1.920396)
+		(end 1.3 -2.6)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3c463939-bc65-4938-91c4-7242e21ee5a1")
+	)
+	(fp_line
+		(start 2.6 -1.2)
+		(end 2.6 1.218745)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "617fd38f-8d6d-4f40-9ca8-241e3fa1cc0c")
+	)
+	(fp_circle
+		(center -3.200051 -2.6)
+		(end -3.170053 -2.6)
+		(stroke
+			(width 0.059995)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "9ea4bf69-dee0-4e94-8cde-67728edba430")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.397003 0)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "983dedc9-3fe2-4f64-ac8f-7b9da5bb650d")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.032004 0)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "8d2a0c5c-6bb8-4aee-b7a4-5835c61e46ea")
+	)
+	(fp_text user "REF**"
+		(at 0 6.6 0)
+		(layer "F.Fab")
+		(uuid "b7ead935-fb33-4cdc-b9c4-2edf9a0e03b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3 -1.849886)
+		(size 1.58001 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ed7d9471-5005-4e8c-8a67-d4e4322c93f3")
+	)
+	(pad "2" smd rect
+		(at 3 -1.849886)
+		(size 1.58001 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ea904cd1-a367-403a-9a2c-664cc136c47c")
+	)
+	(pad "3" smd rect
+		(at -3 1.849886)
+		(size 1.58001 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "53f30941-f6c9-4d78-8f90-f466b0bf0078")
+	)
+	(pad "4" smd rect
+		(at 3 1.849886)
+		(size 1.58001 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "313b8da0-32e1-4187-ad9a-503555e328c7")
+	)
+	(model "Tactile_Switches/footprint/packages3d/SW-SMD_4P-L5.2-W5.2-P3.70-LS6.4.step"
+		(offset
+			(xyz -0.0000507999992371 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
