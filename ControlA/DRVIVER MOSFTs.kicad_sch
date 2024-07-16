@@ -1137,7 +1137,7 @@
 				(pin unspecified line
 					(at 20.32 -83.82 90)
 					(length 7.62)
-					(name "H3_LOW"
+					(name "GND"
 						(effects
 							(font
 								(size 1.27 1.27)
