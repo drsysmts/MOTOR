@@ -1,0 +1,102 @@
+[33mcommit 2abc259665af2beae00bf8118f50499955a0f119[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: drsystemsceo <ceo.drsystems@gmail.com>
+Date:   Tue Jul 16 16:54:54 2024 +0100
+
+    update
+    
+    update layout
+
+[33mcommit 6af582f8f3ca934d9c090861e0eea426476c1a3f[m
+Author: drsystemsceo <ceo.drsystems@gmail.com>
+Date:   Fri Jul 12 17:25:55 2024 +0100
+
+    layout
+    
+    layout mcu
+
+[33mcommit 79a3b5b3c7b80255583c28f171aac48a81119edd[m
+Author: drsystemsceo <ceo.drsystems@gmail.com>
+Date:   Thu Jul 11 17:07:35 2024 +0100
+
+    net change
+    
+    change net
+
+[33mcommit 384a3bdaf8b7627b52ddfc4bd8115f59be75dd00[m
+Merge: 7420d8e 40c93ae
+Author: drsystemsceo <ceo.drsystems@gmail.com>
+Date:   Wed Jul 10 12:52:18 2024 +0100
+
+    Merge branch 'drsysmts:main' into master
+
+[33mcommit 7420d8e0bd5d2f42ac1312ad2856f9038918a1e5[m
+Author: drsystemsceo <ceo.drsystems@gmail.com>
+Date:   Wed Jul 10 12:46:18 2024 +0100
+
+    connector
+    
+    add conctor power mosft
+
+[33mcommit 718cc1be1e4c3398a65fbde5a34321b2f68a2175[m
+Author: drsystemsceo <ceo.drsystems@gmail.com>
+Date:   Wed Jul 10 10:34:41 2024 +0100
+
+    CHANGE V11
+    
+    change v1
+
+[33mcommit 226e47bfe5ae7343944e5c9610aa1676522d70bf[m
+Author: drsystemsceo <ceo.drsystems@gmail.com>
+Date:   Sun Jun 30 17:05:58 2024 +0100
+
+    start placement compentent
+
+[33mcommit 09fe74db291bccc889a79cd3e1ff4e9ff323d970[m
+Author: drsystemsceo <ceo.drsystems@gmail.com>
+Date:   Sat Jun 29 14:55:26 2024 +0100
+
+    test0
+    
+    FIREST
+
+[33mcommit 40c93aec90fb39a696696574b006521fec65e4ab[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: drsysmts <30734741+drsysmts@users.noreply.github.com>
+Date:   Sat Jun 29 13:26:08 2024 +0100
+
+    Initial commit
+
+[33mcommit 3269d88868b26134397c726861f6a002336dd323[m
+Author: drsystems <drsystems@outlook.fr>
+Date:   Sat Jun 29 13:10:25 2024 +0100
+
+    final shema symbole
+
+[33mcommit 90aa07c3691f1da70781d4663750ac11715d0cb7[m
+Author: drsystems <drsystems@outlook.fr>
+Date:   Sat Jun 22 17:21:47 2024 +0100
+
+    usb control
+
+[33mcommit 0a9898a3d1b9d5344b9ba16699aa2062b8fd40ab[m
+Author: drsystems <drsystems@outlook.fr>
+Date:   Sat Jun 22 13:57:38 2024 +0100
+
+    shema input protection final
+
+[33mcommit 34949931331856a28a987837413e3c4b61916851[m
+Author: drsystems <drsystems@outlook.fr>
+Date:   Sat Jun 22 13:48:54 2024 +0100
+
+    add libray symbole and add sheet
+
+[33mcommit 70decd06eadee50efd37845318c88d28d034925d[m
+Author: drsystems <drsystems@outlook.fr>
+Date:   Thu Jun 20 16:57:14 2024 +0100
+
+    Normalize line endings
+
+[33mcommit 2e2bdcbb1f3c4d28db8fd9cc22d9420c8012eb15[m
+Author: drsystems <drsystems@outlook.fr>
+Date:   Thu Jun 20 16:55:44 2024 +0100
+
+    Add .gitattributes file to manage line endings

@@ -1,0 +1,577 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "28f77b05-53a5-4f29-9b4d-d18dbf030970")
+	(paper "A4")
+	(title_block
+		(title "CEO")
+		(date "2024-06-15")
+		(rev "RACHID RAHEL")
+		(company "DR SYSTEMS")
+		(comment 1 "board for education ")
+		(comment 2 "manfucter by company DR SYSTEMS")
+		(comment 3 "use for control esc drone")
+	)
+	(lib_symbols)
+	(rectangle
+		(start 16.51 26.67)
+		(end 111.76 140.97)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f35e2b82-6883-47ba-8b5f-bbccbdbc2c19)
+	)
+	(text "7"
+		(exclude_from_sim no)
+		(at 226.06 86.36 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(href "#07")
+		)
+		(uuid "1104d893-2a3f-4fcb-b833-4417c63507e5")
+	)
+	(text "2"
+		(exclude_from_sim no)
+		(at 193.04 50.8 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(href "#02")
+		)
+		(uuid "30810525-7cc0-47e5-aba6-a61d7ba3c5bd")
+	)
+	(text "9"
+		(exclude_from_sim no)
+		(at 189.23 121.92 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "44300def-daa0-469c-934e-3b4c391ac0d0")
+	)
+	(text "4"
+		(exclude_from_sim no)
+		(at 266.7 54.61 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(href "#04")
+		)
+		(uuid "63d741f7-19b3-45bd-8c1e-d67f6b3d62b2")
+	)
+	(text "10"
+		(exclude_from_sim no)
+		(at 243.84 120.65 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(href "#010")
+		)
+		(uuid "85045c46-679e-4d53-b5a2-c8c778526c35")
+	)
+	(text "3"
+		(exclude_from_sim no)
+		(at 224.79 49.53 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(href "#03")
+		)
+		(uuid "90ff7605-4d5e-49d2-81b4-bd4162f7a404")
+	)
+	(text "6"
+		(exclude_from_sim no)
+		(at 191.77 87.63 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(href "#06")
+		)
+		(uuid "a4acdce7-55d5-48fc-a545-b1b319613320")
+	)
+	(text "5"
+		(exclude_from_sim no)
+		(at 157.48 87.63 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(href "#05")
+		)
+		(uuid "afc2f7e8-5051-4f8e-aaa6-be5127ce37d3")
+	)
+	(text "DF-ESC-rev0"
+		(exclude_from_sim no)
+		(at 130.81 20.32 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 5.08 5.08)
+				(thickness 0.254)
+				(bold yes)
+				(color 57 81 255 1)
+			)
+		)
+		(uuid "dc0e39a6-e3a1-407f-b478-9f7da448eecf")
+	)
+	(text "8"
+		(exclude_from_sim no)
+		(at 261.62 86.36 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(href "#010")
+		)
+		(uuid "e3336fa4-eb6c-447a-9036-1f29d9739991")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 158.75 52.07 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(href "#01")
+		)
+		(uuid "ebc4515b-fc01-4e87-af7b-a33af0b2f76a")
+	)
+	(sheet
+		(at 181.61 76.2)
+		(size 24.13 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 0 194 1)
+		)
+		(fill
+			(color 0 255 0 1.0000)
+		)
+		(uuid "1b2c0c5f-9828-48f6-8eaf-253e8ae08fa5")
+		(property "Sheetname" "MOSFTs"
+			(at 181.61 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MOSFTs.kicad_sch"
+			(at 181.61 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "06")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 111.76)
+		(size 27.94 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 0 255 1)
+		)
+		(fill
+			(color 0 255 0 1.0000)
+		)
+		(uuid "27df3959-570c-44e1-8e59-6cf229e4e5fe")
+		(property "Sheetname" "USB"
+			(at 175.26 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 175.26 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "09")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 213.36 40.64)
+		(size 24.13 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 255 0 1)
+		)
+		(fill
+			(color 255 255 0 1.0000)
+		)
+		(uuid "29166dd5-a94a-4745-a5d4-a64846a7ffbb")
+		(property "Sheetname" "STEP_DOWN_convert"
+			(at 213.36 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Step_Dowun_Convert.kicad_sch"
+			(at 213.36 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "03")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 233.68 110.49)
+		(size 21.59 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 0 194 1)
+		)
+		(fill
+			(color 0 255 0 1.0000)
+		)
+		(uuid "5b68e256-6d9a-47ef-8d04-b5704e0117e8")
+		(property "Sheetname" "MECANIQUE"
+			(at 233.68 109.7784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MECANIQUE.kicad_sch"
+			(at 233.68 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "010")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 76.2)
+		(size 22.86 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 0 194 1)
+		)
+		(fill
+			(color 0 255 0 1.0000)
+		)
+		(uuid "5f009477-0f32-42e0-be3b-4d4dc3923b3d")
+		(property "Sheetname" "CAN"
+			(at 215.9 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 215.9 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "07")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 40.64)
+		(size 27.94 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 0 132 1)
+		)
+		(fill
+			(color 0 255 0 1.0000)
+		)
+		(uuid "6e18106b-ec4c-489b-a186-c3d0a9c9e81f")
+		(property "Sheetname" "BLOCK DIAGRAM"
+			(at 144.78 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BLOCK DIAGRAM.kicad_sch"
+			(at 144.78 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "01")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 181.61 40.64)
+		(size 24.13 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 255 0 1)
+		)
+		(fill
+			(color 255 255 0 1.0000)
+		)
+		(uuid "8b90f1aa-83f4-48c7-b45b-eecece8cbc1b")
+		(property "Sheetname" "INPUT_PROTECTION"
+			(at 181.61 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "overview.kicad_sch"
+			(at 181.61 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "02")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 252.73 40.64)
+		(size 26.67 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 0 194 1)
+		)
+		(fill
+			(color 0 255 0 1.0000)
+		)
+		(uuid "a6064041-ecb6-4b5c-a3b1-f3c20e6d8583")
+		(property "Sheetname" "MCU"
+			(at 252.73 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 252.73 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "04")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 251.46 76.2)
+		(size 20.32 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 0 194 1)
+		)
+		(fill
+			(color 0 255 0 1.0000)
+		)
+		(uuid "e0179b22-6a1f-4dbe-b03d-30d40e39b9bd")
+		(property "Sheetname" "FILTRE"
+			(at 251.46 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FILTRE.kicad_sch"
+			(at 251.46 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "08")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 77.47)
+		(size 24.13 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 0 194 1)
+		)
+		(fill
+			(color 0 255 0 1.0000)
+		)
+		(uuid "e5671236-105d-4bf6-b18f-ceea8316af94")
+		(property "Sheetname" "DRVIVER MOSFTs"
+			(at 144.78 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DRVIVER MOSFTs.kicad_sch"
+			(at 144.78 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlA"
+				(path "/28f77b05-53a5-4f29-9b4d-d18dbf030970"
+					(page "05")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

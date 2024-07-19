@@ -1,0 +1,196 @@
+(footprint "PQFN-8_L6.0-W5.0-P1.27-LS6.0-BL"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "PQFN-8_L6.0-W5.0-P1.27-LS6.0-BL footprint")
+	(tags "PQFN-8_L6.0-W5.0-P1.27-LS6.0-BL footprint C845605")
+	(property "Reference" "REF**"
+		(at 0.000025 -4.999721 0)
+		(layer "F.SilkS")
+		(uuid "8635199c-b2d6-49fb-b644-30f38464c346")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PQFN-8_L6.0-W5.0-P1.27-LS6.0-BL"
+		(at 0.000025 4.999771 0)
+		(layer "F.Fab")
+		(uuid "1c17a7b5-e4e2-4029-8f6b-c5357062ed67")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "PQFN-8_L6.0-W5.0-P1.27-LS6.0-BL"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ca1aca6-bc7a-4645-b1df-f9e98c9da078")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52d70cb0-5e0d-4f0a-9656-d68743a4ddc2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed5c8912-0703-41dd-b172-be7877c5c424")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.62888 2.999771)
+		(end -2.62888 -2.999721)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cc93ead9-4222-4673-abc1-ede93f304abc")
+	)
+	(fp_line
+		(start 2.628931 2.999771)
+		(end 2.628931 -2.999721)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "02de761a-695d-4fa9-95cb-4d86e66f8ddb")
+	)
+	(fp_arc
+		(start -2.47648 3.901473)
+		(mid -2.725392 3.900177)
+		(end -2.476479 3.898984)
+		(stroke
+			(width 0.398781)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2c493668-da6d-4736-b036-456e251c5a8d")
+	)
+	(fp_circle
+		(center -2.499975 3.000025)
+		(end -2.469977 3.000025)
+		(stroke
+			(width 0.059995)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "62d77049-d69a-41fe-93b2-327df15816a7")
+	)
+	(fp_circle
+		(center -1.880112 3.359919)
+		(end -1.753112 3.359919)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "d59e9b78-69ef-485b-82ce-829ee23f965a")
+	)
+	(fp_text user "REF**"
+		(at 0.000025 6.999771 0)
+		(layer "F.Fab")
+		(uuid "30243f59-ebe8-44da-8b30-c26bd00ba7e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.905004 2.819406)
+		(size 0.609601 1.397003)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "59fa26a8-7943-484e-8e77-c13bdbd34581")
+	)
+	(pad "2" smd rect
+		(at -0.635001 2.819406)
+		(size 0.609601 1.397003)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "83a781e5-5f60-476a-a329-1383ec81ddf4")
+	)
+	(pad "3" smd rect
+		(at 0.635001 2.819406)
+		(size 0.609601 1.397003)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c21b643a-dec6-46dd-905d-5a56b0f08200")
+	)
+	(pad "4" smd rect
+		(at 1.905004 2.819406)
+		(size 0.609601 1.397003)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "420430e0-f587-4a73-ba41-6b5bdec754ce")
+	)
+	(pad "5" smd rect
+		(at 1.905004 -2.819406)
+		(size 0.609601 1.397003)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "00ebe597-afdd-4890-a412-516130e620b6")
+	)
+	(pad "6" smd rect
+		(at 0.635001 -2.819406)
+		(size 0.609601 1.397003)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "13962bea-7bd7-42e3-8e06-a659d807784d")
+	)
+	(pad "7" smd rect
+		(at -0.635001 -2.819406)
+		(size 0.609601 1.397003)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "587ed0c5-f128-41d5-a52f-6264522ff3dc")
+	)
+	(pad "8" smd rect
+		(at -1.905004 -2.819406)
+		(size 0.609601 1.397003)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1296e276-7d79-4482-8381-96f5da80b5d1")
+	)
+	(pad "9" smd rect
+		(at 0 -0.711201 90)
+		(size 3.810008 4.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0d796e78-3a57-4824-851f-708b9ff62b6a")
+	)
+	(model "MOSFET/footprint/packages3d/PQFN-8_L6.0-W5.0-P1.27-LS6.0-BL.step"
+		(offset
+			(xyz 0.0000253999996185 -0.0000253999996185 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

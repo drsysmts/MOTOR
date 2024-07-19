@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library_diodd")(type "KiCad")(uri "${KIPRJMOD}/LIBRAY/Library_diodd.pretty")(options "")(descr ""))
+  (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/LIBRAY/My_lib_Conn/My_lib_Conn_boom/footprint.pretty")(options "")(descr ""))
+)
