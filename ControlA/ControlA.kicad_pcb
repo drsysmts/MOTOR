@@ -1199,7 +1199,7 @@
 	(footprint "footprint:LED0805-R-RD"
 		(layer "F.Cu")
 		(uuid "0978e5c6-02af-4aa7-a96d-9067d676f719")
-		(at 85.8 42.050294 -90)
+		(at 148.2 112.050294 -90)
 		(descr "LED0805-R-RD footprint")
 		(tags "LED0805-R-RD footprint C98221")
 		(property "Reference" "D3"
@@ -2137,7 +2137,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "10792104-e370-49c0-8cc7-6408051fab0b")
-		(at 86.3 36.412501 -90)
+		(at 148.7 106.412501 -90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
@@ -11694,7 +11694,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "2b53c826-8dee-42c2-8df1-b7a3b345157b")
-		(at 43.8 66.23)
+		(at 137.99 109.91)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C54"
@@ -13346,7 +13346,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "37cfc65d-d4e5-4215-ac20-c2bae36f6b5f")
-		(at 88.8 36.45 -90)
+		(at 151.2 106.45 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
@@ -16991,7 +16991,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 		(layer "F.Cu")
 		(uuid "573959d7-6422-41bc-a8f3-35022091935d")
-		(at 98.3 39.15 -90)
+		(at 160.7 109.15 -90)
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "U2"
@@ -18125,7 +18125,7 @@
 	(footprint "footprint:LED0805-R-RD"
 		(layer "F.Cu")
 		(uuid "5e64f500-3590-42c3-a9ae-5b838e64f942")
-		(at 103.3 46.550294 90)
+		(at 165.7 116.550294 90)
 		(descr "LED0805-R-RD footprint")
 		(tags "LED0805-R-RD footprint C98221")
 		(property "Reference" "D5"
@@ -19692,7 +19692,7 @@
 	(footprint "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
 		(layer "F.Cu")
 		(uuid "639f401b-ddd8-42f6-b931-379f04deec42")
-		(at 185.18 61.25)
+		(at 167.260419 52.950419)
 		(descr "Mounting Hole 4.3mm, M4")
 		(tags "mounting hole 4.3mm m4")
 		(property "Reference" "H2"
@@ -27914,7 +27914,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "94201356-6a9e-4b85-9baa-a92365f67a86")
-		(at 49.9 66.667501 90)
+		(at 155 120.9125 90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R40"
@@ -33545,7 +33545,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "b5eb85f4-2185-450b-b3e9-5bd4e496378e")
-		(at 91.8 36.45 -90)
+		(at 154.2 106.45 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
@@ -35091,7 +35091,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "bd522ee1-8017-4936-9b25-2088affd4bd0")
-		(at 97.85 47.500001)
+		(at 160.25 117.500001)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C8"
@@ -36161,7 +36161,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "c9b5a0be-ea30-4eec-8997-0e97d401deb9")
-		(at 97.85 45.000001)
+		(at 160.25 115.000001)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C7"
@@ -41666,7 +41666,7 @@
 	(footprint "footprint:DIOM4325X250N"
 		(layer "F.Cu")
 		(uuid "e44e88df-201e-46ba-a8d3-3dad8b08ea47")
-		(at 40 53 -90)
+		(at 128.94 110.02 -90)
 		(property "Reference" "D1"
 			(at -0.925 -2.43 90)
 			(layer "F.SilkS")
@@ -48691,77 +48691,15 @@
 			)
 		)
 	)
-	(gr_line
-		(start 161.58 51.181068)
-		(end 161.58 129.98)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "00dffc0b-ccaa-4252-b3b4-ea8fc4bb24aa")
-	)
 	(gr_rect
-		(start 71 61)
-		(end 114 104)
+		(start 48.59 47.67)
+		(end 180.5 129.21)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill none)
 		(layer "Edge.Cuts")
-		(uuid "78eac17e-04a8-48c3-9b10-a6c1f1954759")
-	)
-	(gr_line
-		(start 161.58 51.181068)
-		(end 59.951068 51.181068)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "a99d070a-f5f7-4037-9468-37c760798a6f")
-	)
-	(gr_line
-		(start 60 130)
-		(end 161.59 130)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "ba9512e1-e9b2-4f59-8126-8cac3b89f130")
-	)
-	(gr_arc
-		(start 49.951068 61.181068)
-		(mid 52.88 54.11)
-		(end 59.951068 51.181068)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "ccd0c56d-e1ba-4810-961d-2d9ff6bd8672")
-	)
-	(gr_arc
-		(start 60 130)
-		(mid 52.928932 127.071068)
-		(end 50 120)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "f7801886-7919-4e79-a836-d4c4942df19d")
-	)
-	(gr_line
-		(start 49.951068 61.181068)
-		(end 49.951068 120)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "f82caf43-d5cb-4f24-9707-71dac2fea463")
+		(uuid "0d6043ba-39a4-4936-a7df-7a134306a1a8")
 	)
 )
